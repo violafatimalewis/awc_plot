@@ -1,3 +1,4 @@
+![AWC_stats](https://user-images.githubusercontent.com/45931303/224642665-2a20989c-0aa3-44b1-b816-74c52724a75c.png)
 # awc_plot
 Plot Aanganwadi centres 
 
